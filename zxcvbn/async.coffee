@@ -1,4 +1,4 @@
-ZXCVBN_SRC = 'https://dl.dropboxusercontent.com/u/209/zxcvbn/zxcvbn.js'
+ZXCVBN_SRC = '/zxcvbn/zxcvbn.js'
 
 # adapted from http://friendlybit.com/js/lazy-loading-asyncronous-javascript/
 async_load = ->
